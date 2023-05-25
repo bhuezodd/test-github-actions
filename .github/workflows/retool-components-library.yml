@@ -28,4 +28,4 @@ jobs:
         with:
           fetch-depth: 0
       - name: Install dependencies 🚀
-        run: echo hello
+        run: echo hello staging
